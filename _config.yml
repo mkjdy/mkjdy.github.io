@@ -3,4 +3,5 @@ name: Name
 description: Desc
 url: "http://mkjdy.github.io"
 markdown: kramdown
+theme: minima
 highlighter: rouge
